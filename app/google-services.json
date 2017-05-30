@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "285131864550",
+    "firebase_url": "https://to-do-53412.firebaseio.com",
+    "project_id": "to-do-53412",
+    "storage_bucket": "to-do-53412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285131864550:android:9a642ec5479f3269",
+        "android_client_info": {
+          "package_name": "com.hayachannel.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285131864550-sovkovg0mg6iikja1nf3jb15ggviesns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6DJN32-wTue__6qZaO-ETSSjrOd92otc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
